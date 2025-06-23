@@ -1,0 +1,7 @@
+streamlit
+pymupdf 
+pyzbar
+pillow
+opencv-python
+PyJWT
+PyPDF2
